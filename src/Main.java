@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int randomint = (int) (Math.random() * 10) + 1;
+        int randomint = (int) (Math.random() * 100) + 1;
         int attempts = 10;
 
 
